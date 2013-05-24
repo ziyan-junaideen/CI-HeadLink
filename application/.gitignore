@@ -1,0 +1,6 @@
+/*
+/*/
+!.gitignore
+!/libraries
+!/controllers
+!/views
